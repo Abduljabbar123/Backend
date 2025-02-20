@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Abduljabbar123/Backend/issues"
   },
-  "homepage": "https://github.com/Abduljabbar123/Backend#readme"
+  "homepage": "https://github.com/Abduljabbar123/Backend#readme",
+  "devDependencies": {
+    "prettier": "3.5.1"
+  }
 }

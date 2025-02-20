@@ -5,3 +5,7 @@
 <!-- 3 Step npm install express -->
 <!-- 4 Step npm install nodemon -->
 <!-- 5 Step npm install mongoose -->
+
+<!-- Adding Pretier -->
+<!-- npm install -D prettier -->
+<!--  -->
